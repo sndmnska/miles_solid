@@ -1,3 +1,5 @@
+*For personal reference on SOLID concepts*
+
 # Miles Database 
 
 Original code in original directory
